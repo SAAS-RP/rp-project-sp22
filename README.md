@@ -9,6 +9,6 @@ Deliverables for 3/29: Finish Word2Vec model and store word embeddings
 Deliverables for 4/5 (4/12 oops): Start clustering by genre in each time period category.
 
 Accomplished:
- - built/trained word2vec model, stored word embeddings externally
+ - completed word2vec model
  
  Deliverables for 4/19: create knowledge graph, work on paper
